@@ -1,4 +1,4 @@
-# Sistem Data Buku — Single Linked List
+# Sistem Data Buku - Single Linked List
 
 Program Java ini menyimpan data buku menggunakan struktur data **Single Linked List**.
 Program berjalan lewat menu interaktif yang mendukung operasi dasar: menambah buku,
@@ -6,11 +6,11 @@ menghapus buku terakhir, mencari buku berdasarkan kode, serta menampilkan seluru
 
 ## Fitur
 
-1. **Tambah Buku** — menambah buku di akhir daftar (kode maksimal 5 karakter, tidak boleh kosong).
-2. **Hapus Buku** — menghapus buku terakhir dari daftar.
-3. **Cari Buku** — mencari buku berdasarkan kode (tidak membedakan huruf besar/kecil).
-4. **Lihat Semua Buku** — menampilkan seluruh buku beserta totalnya.
-5. **Keluar** — mengakhiri program (memberi peringatan bila data kurang dari 5 buku).
+1. **Tambah Buku**: menambah buku di akhir daftar (kode maksimal 5 karakter, tidak boleh kosong).
+2. **Hapus Buku**: menghapus buku terakhir dari daftar.
+3. **Cari Buku**: mencari buku berdasarkan kode (tidak membedakan huruf besar/kecil).
+4. **Lihat Semua Buku**: menampilkan seluruh buku beserta totalnya.
+5. **Keluar**: mengakhiri program (memberi peringatan bila data kurang dari 5 buku).
 
 ## Struktur File
 
